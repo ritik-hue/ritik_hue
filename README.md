@@ -1,4 +1,4 @@
 # ritik_hue
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={ritiksingh12}" alt="LeetCode Badges"/>
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 
